@@ -1,6 +1,6 @@
 # Terminology
 
-- # Web
+- # [Web]()
 - ### Web Services
   - Domain: 
     <br> For example: store.yourwebsite.com
