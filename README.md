@@ -1,6 +1,7 @@
 # Terminology
 
 - # Cloud
+- VM- Virtual machine
 
 - ## AWS
 - ### Amazon EC2
@@ -9,9 +10,10 @@
 
 - ### Basic Computing 
 
-- ### Amazon S3
+- ### Amazon S3 - Amazon simple storage service
 
-  - S3 = Simple Storage Service
+  
+  
   
 - # [Scripting & Programming](https://github.com/hydropero/Terminology/blob/main/Programming.md)
 
