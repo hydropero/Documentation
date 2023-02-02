@@ -3,8 +3,12 @@
 - # Cloud
 
 - ## AWS
-- EC2 = Elastic Compute Cloud
+- ### Amazon EC2
+  - EC2 = Elastic Compute Cloud
 
--### Basic Computing 
+
+- ### Basic Computing 
 
 - ### Amazon S3
+
+  - S3 = Simple Storage Service
