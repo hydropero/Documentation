@@ -24,6 +24,8 @@
   - IaaS (Infrastructure as a service)
   - PaaS (Platform as a service)
   - SaaS (Software as a service)
+
+- # [Linux]()
   
   
 - # [Scripting & Programming](https://github.com/hydropero/Terminology/blob/main/Programming.md)
