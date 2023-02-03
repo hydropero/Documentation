@@ -25,7 +25,7 @@
   - PaaS (Platform as a service)
   - SaaS (Software as a service)
 
-- # [Linux]()
+- # [Linux](https://github.com/hydropero/Terminology/blob/main/Linux.md)
   
   
 - # [Scripting & Programming](https://github.com/hydropero/Terminology/blob/main/Programming.md)
