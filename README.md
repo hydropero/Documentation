@@ -12,11 +12,13 @@
 - ## AWS
 - ### Amazon EC2
   - EC2 = Elastic Compute Cloud
+  - VPC = Virtual Private Cloud
 
 
 - ### Basic Computing 
 
 - ### Amazon S3 - Amazon simple storage service
+- AMI - Amazon Machine Image
 
 - #### 3 Cloud Service models : 
   - IaaS (Infrastructure as a service)
