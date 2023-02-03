@@ -29,3 +29,5 @@
 | apt-get | Command used to install and update packages   |
 | mail -s 'subject' -c 'cc-address' -b 'bcc-address' 'to-address'   | Command to send email |
 | mail -s "Subject" to-address < Filename  | Command to send email with attachment    |
+
+Courtesy of Tremaine
