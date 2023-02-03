@@ -1,6 +1,6 @@
 # Terminology
 
-- # [Web]()
+- # [Web](https://github.com/hydropero/Terminology/blob/main/Web.md)
 - ### Web Services
   - Domain: 
     <br> For example: store.yourwebsite.com
