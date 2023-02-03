@@ -12,11 +12,14 @@
 - ## AWS
 - ### Amazon EC2
   - EC2 = Elastic Compute Cloud
+  - EBS - Elastic Block Store
+  - EFS - Elastic File System
   - VPC = Virtual Private Cloud
   - RI- Reserved Instance
   - AURI - All Upfront Reserved Instance
   - PURI - Partial Upfront Reserved Instance
   - NURI - No Upfront Reserved Instance
+  
 
 - ### Basic Computing 
 
