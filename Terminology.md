@@ -1,3 +1,5 @@
+#### [Return to main Documentation-Index page](https://github.com/hydropero/Terminology)
+
 # Terminology
 
 - # [Web](https://github.com/hydropero/Terminology/blob/main/Web.md)
@@ -6,7 +8,7 @@
     <br> For example: store.yourwebsite.com
 
 - # Cloud
-- VM- Virtual machine
+- VM - Virtual machine
 
 - ## AWS
 - ### Amazon EC2
@@ -18,7 +20,6 @@
   - AURI - All Upfront Reserved Instance
   - PURI - Partial Upfront Reserved Instance
   - NURI - No Upfront Reserved Instance
-  
 
 - ### Basic Computing 
 
@@ -29,9 +30,3 @@
   - IaaS (Infrastructure as a service)
   - PaaS (Platform as a service)
   - SaaS (Software as a service)
-
-- # [Linux](https://github.com/hydropero/Terminology/blob/main/Linux.md)
-  
-  
-- # [Scripting & Programming](https://github.com/hydropero/Terminology/blob/main/Programming.md)
-

@@ -1,4 +1,5 @@
 #### [Return to main Terminology page](https://github.com/hydropero/Terminology)
+
 ### Web Services
   - Domain: 
      For example: store.yourwebsite.com

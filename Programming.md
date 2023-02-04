@@ -1,4 +1,4 @@
-# [Return to main Terminology page](https://github.com/hydropero/Terminology)
+### [Return to main Terminology page](https://github.com/hydropero/Terminology)
 
 - # Python
 - print() = used to print text to the screen

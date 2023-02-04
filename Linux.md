@@ -1,4 +1,5 @@
 #### [Return to main Terminology page](https://github.com/hydropero/Terminology)
+
 | Command    | Description |
 | ----------- | ----------- |
 | ls      | Lists all files and directories in the present working directory       |
