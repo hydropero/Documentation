@@ -1,6 +1,6 @@
 # Documentation Index
 
-- # [Terminology]
+- # [Terminology](https://github.com/hydropero/Documentation/blob/main/Terminology.md)
 
 - # [Linux](https://github.com/hydropero/Terminology/blob/main/Linux.md)
   
