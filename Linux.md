@@ -32,3 +32,10 @@
 | mail -s 'subject' -c 'cc-address' -b 'bcc-address' 'to-address'   | Command to send email |
 | mail -s "Subject" to-address < Filename  | Command to send email with attachment    |
 | vi< filename> then hit i key | To edit your file |
+| pwd | Print Worknig Directory |
+|cp <source> <destination> | To copy a file |
+|ps| To show process id's and view user processes|
+|chmod | To change the mode of permission to user, group or others |
+|chown| To Change the file owner & group |
+
+ 
