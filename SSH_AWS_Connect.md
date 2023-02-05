@@ -7,19 +7,23 @@
 <img src="https://raw.githubusercontent.com/hydropero/Documentation/main/Screenshots/AWS_SSH/Screen%20Shot%202023-02-04%20at%205.59.40%20PM.png">
 <br>
 3. Navigate in your terminal to where to you saved the labsuser.pem file. Example below.
-
+<img src="https://raw.githubusercontent.com/hydropero/Documentation/main/Screenshots/AWS_SSH/AzureWebHosting_2023-02-04_18-21-12.png">
 <br>
+
 4. <code>mv labsuser.pem vockey.pem</code>
 Change the name of the labsuser.pem file to vockey.pem
-
+<img src="https://github.com/hydropero/Documentation/blob/main/Screenshots/AWS_SSH/AzureWebHosting_2023-02-04_18-24-23.png?raw=true">
 <br>
-5. Navigate into your EC2 instance from AWS
 
-6. Create your EC2 Instance and be sure to select to use the existing key pair called **vockey**, then finish provisioning the instance.
-<image>
+5. Create your EC2 Instance and be sure to select to use the existing key pair called **vockey**, then finish provisioning the instance.
+<img src="https://github.com/hydropero/Documentation/blob/main/Screenshots/AWS_SSH/Screen%20Shot%202023-02-04%20at%206.03.45%20PM.png?raw=true">
+<br>
+
+6. Navigate into your EC2 instance from AWS
+<br>
 
 7. Enter into your instance, select it using the checkbox on the left and then copy the Public IP Address, we will use it later.
-
+<img src="https://github.com/hydropero/Documentation/blob/main/Screenshots/AWS_SSH/Screen%20Shot%202023-02-04%20at%206.29.15%20PM.png?raw=true">
 <br>
 
 8. Then exit the Details panel by selecting the X.
