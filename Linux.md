@@ -39,4 +39,5 @@
 |chown| To Change the file owner & group |
 |ifconfig | To view or configure a network interface & IP configuration |
 |iwconfig | To view or change wireless network configuration |
- 
+|Press ESC and :wq| To save and quit
+|Press ESC and :q!| To quit without save|
