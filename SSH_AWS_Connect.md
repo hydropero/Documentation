@@ -26,21 +26,20 @@ Change the name of the labsuser.pem file to vockey.pem
 <img src="https://github.com/hydropero/Documentation/blob/main/Screenshots/AWS_SSH/Screen%20Shot%202023-02-04%20at%206.29.15%20PM.png?raw=true">
 <br>
 
-8. Then exit the Details panel by selecting the X.
-<br>
-
-9. Open a terminal window, and change directory cd to the directory where the labsuser.pem file was downloaded. For example, if the labuser.pem file was saved to your Downloads directory, run this command:
-<br>
-
 10. <code>cd ~/Downloads</code>
 Change the permissions on the key to be read-only, by running this command:
+<code>chmod 400 labsuser.pem</code>
 <br>
 
-11. <code>chmod 400 labsuser.pem</code>
-Run the below command (replace <public-ip> with the PublicIP address you copied earlier).
+11. Run the below command (replace <public-ip> with the PublicIP address you copied earlier).
 Alternatively, return to the EC2 Console and select Instances. Check the box next to the instance you want to connect to and in the Description tab copy the IPv4 Public IP value.:
 <br>
 
-12. <code>ssh -i labsuser.pem ec2-user@<public-ip></code>
-Type yes when prompted to allow the first connection to this remote SSH server.
-Because you are using a key pair for authentication, you will not be prompted for a password.
+12. <code>ssh ec2-user@54.149.188.49 -i labsuser.pem</code>
+<br>
+
+13. When prompted regarding the server's fingerprint, enter yes.
+
+<br>
+
+14. Celebrate, because congrats you've successfully SSH'd into your remote AWS EC2 Instance
