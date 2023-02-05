@@ -31,4 +31,4 @@
 | apt-get | Command used to install and update packages   |
 | mail -s 'subject' -c 'cc-address' -b 'bcc-address' 'to-address'   | Command to send email |
 | mail -s "Subject" to-address < Filename  | Command to send email with attachment    |
-| vi< filename>  | then hit i key | To edit your file
+| vi< filename> then hit i key | To edit your file |
