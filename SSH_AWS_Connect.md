@@ -1,3 +1,6 @@
+- ### [Return to main index page](https://github.com/hydropero/Terminology)
+- ### [Return to main documentation page](https://github.com/hydropero/Documentation/blob/main/Documentation_Tutorials.md)
+
 # How to SSH into your EC2 Instance created via (AWS Canvas Lab)
 
 1. Select the AWS Details drop-down menu. A Credentials window will be presented.
