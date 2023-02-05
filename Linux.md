@@ -37,5 +37,6 @@
 |ps| To show process id's and view user processes|
 |chmod | To change the mode of permission to user, group or others |
 |chown| To Change the file owner & group |
-
+|ifconfig | To view or configure a network interface & IP configuration |
+|iwconfig | To view or change wireless network configuration |
  
