@@ -1,4 +1,4 @@
-#### [Return to main Documentation-Index page](https://github.com/hydropero/Terminology)
+#### [Return to main Index page](https://github.com/hydropero/Terminology)
 
 # Terminology
 
