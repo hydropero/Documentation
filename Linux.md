@@ -22,7 +22,7 @@
 | clear | Clears the terminal  |
 | mkdir directoryname    | Creates a new directory in the present working directory or a at the specified path    |
 | rmdir  | Deletes a directory  |
-| mv  | Renames a directory  |
+| mv  | Move/Renames a directory  |
 | pr -x   | Divides the file into x columns    |
 | pr -h  | Assigns a header to the file      |
 | pr -n    | Denotes the file with Line Numbers   |
@@ -31,5 +31,4 @@
 | apt-get | Command used to install and update packages   |
 | mail -s 'subject' -c 'cc-address' -b 'bcc-address' 'to-address'   | Command to send email |
 | mail -s "Subject" to-address < Filename  | Command to send email with attachment    |
-
-Courtesy of Tremaine
+| vi< filename>  | then hit i key | To edit your file
