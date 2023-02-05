@@ -26,8 +26,7 @@ Change the name of the labsuser.pem file to vockey.pem
 <img src="https://github.com/hydropero/Documentation/blob/main/Screenshots/AWS_SSH/Screen%20Shot%202023-02-04%20at%206.29.15%20PM.png?raw=true">
 <br>
 
-10. <code>cd ~/Downloads</code>
-Change the permissions on the key to be read-only, by running this command:
+10. Back in your terminal - change the permissions on the vockey.pem key to be read-only, by running this command:
 <code>chmod 400 labsuser.pem</code>
 <br>
 
@@ -36,10 +35,11 @@ Alternatively, return to the EC2 Console and select Instances. Check the box nex
 <br>
 
 12. <code>ssh ec2-user@54.149.188.49 -i labsuser.pem</code>
+<img src="https://github.com/hydropero/Documentation/blob/main/Screenshots/AWS_SSH/AzureWebHosting_2023-02-04_18-39-39.png?raw=true">
 <br>
 
 13. When prompted regarding the server's fingerprint, enter yes.
-
+<img src="https://github.com/hydropero/Documentation/blob/main/Screenshots/AWS_SSH/AzureWebHosting_2023-02-04_18-39-55.png?raw=true">
 <br>
 
 14. Celebrate, because congrats you've successfully SSH'd into your remote AWS EC2 Instance
