@@ -12,14 +12,20 @@
 
 - ## AWS
 - ### Amazon EC2
-  - EC2 = Elastic Compute Cloud
-  - EBS - Elastic Block Store
-  - EFS - Elastic File System
-  - VPC = Virtual Private Cloud
+  - Amazon EC2 = Elastic Compute Cloud
+  - Amazon EBS - Elastic Block Store
+  - Amazon EFS - Elastic File System
+  - Amazon VPC = Virtual Private Cloud
   - RI- Reserved Instance
   - AURI - All Upfront Reserved Instance
   - PURI - Partial Upfront Reserved Instance
   - NURI - No Upfront Reserved Instance
+  - Amazon IAM- Amazon Identity & Access Management
+  - Amazon KMS- Amazon Key Management Service
+  - Amazon ECS- Amazon Elastic Container Service
+  - Amazon ECR- Amazon Elastic Container Registry
+  - Amazon EKS- Amazon Elastic Kubernetes Service
+  - 
 
 - ### Basic Computing 
 
