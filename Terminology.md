@@ -9,6 +9,8 @@
 
 - # Cloud
 - VM - Virtual machine
+- GB- Gigabyte (1 GB = 10^9 bytes or 1 billion bytes)
+- GiB- Gibibyte (1 GiB= 2^30 bytes or 1,073,741,824 bytes)
 
 - ## AWS
 - ### Amazon EC2
