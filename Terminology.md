@@ -27,6 +27,7 @@
   - Amazon ECS- Amazon Elastic Container Service
   - Amazon ECR- Amazon Elastic Container Registry
   - Amazon EKS- Amazon Elastic Kubernetes Service
+  - SSH- Secure socket shell or Secure shell
   - 
 
 - ### Basic Computing 
