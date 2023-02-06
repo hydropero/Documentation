@@ -9,8 +9,7 @@
 
 - # Cloud
 - VM - Virtual machine
-- GB- Gigabyte (1 GB = 10^9 bytes or 1 billion bytes)
-- GiB- Gibibyte (1 GiB= 2^30 bytes or 1,073,741,824 bytes)
+
 
 - ## AWS
 - ### Amazon EC2
@@ -27,10 +26,13 @@
   - Amazon ECS- Amazon Elastic Container Service
   - Amazon ECR- Amazon Elastic Container Registry
   - Amazon EKS- Amazon Elastic Kubernetes Service
-  - SSH- Secure socket shell or Secure shell
-  - 
+  - SSH- Secure Shell or Secure Socket Shell
+  - SSL - Secure Socket Layer 
 
 - ### Basic Computing 
+- OS - Operating system
+- GB- Gigabyte (1 GB = 10^9 bytes or 1 billion bytes)
+- GiB- Gibibyte (1 GiB= 2^30 bytes or 1,073,741,824 bytes)
 
 - ### Amazon S3 - Amazon simple storage service
 - AMI - Amazon Machine Image
