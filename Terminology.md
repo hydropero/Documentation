@@ -6,7 +6,7 @@
 - ### Web Services
   - Domain: 
     <br> For example: store.yourwebsite.com
-               subdomain ^    Domain     ^ TLD (Top Level Domain)
+    <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;subdomain ^ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ^ Domain  &nbsp;&nbsp;&nbsp; ^ TLD (Top Level Domain)
 
 - # Cloud
 - VM - Virtual machine
