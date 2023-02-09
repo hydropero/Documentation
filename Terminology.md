@@ -34,6 +34,8 @@
 - OS - Operating system
 - GB- Gigabyte (1 GB = 10^9 bytes or 1 billion bytes)
 - GiB- Gibibyte (1 GiB= 2^30 bytes or 1,073,741,824 bytes)
+- .pem- Privacy Enhanced Mail
+- .ppk- Putty Private Key
 
 - ### Amazon S3 - Amazon simple storage service
 - AMI - Amazon Machine Image
