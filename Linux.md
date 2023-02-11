@@ -41,3 +41,4 @@
 |iwconfig | To view or change wireless network configuration |
 |Press ESC and :wq| To save and quit
 |Press ESC and :q!| To quit without save|
+|adduser| Add user and create home directory|
