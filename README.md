@@ -8,3 +8,4 @@
   
 - # [Scripting & Programming](https://github.com/hydropero/Terminology/blob/main/Programming.md)
 
+- # [Command Line Shortcuts](https://github.com/hydropero/Documentation/blob/main/Command_Line_Text_Shortcuts.md)
