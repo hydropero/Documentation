@@ -1,8 +1,8 @@
 #### [Return to main Terminology page](https://github.com/hydropero/Terminology)
 
 
-#For Mac OS
-#####Command Editing Shortcuts
+# For Mac OS
+##### Command Editing Shortcuts
 
 > Ctrl + a – go to the start of the command line
 
