@@ -80,3 +80,5 @@
 > !* – the previous command except for the last word (e.g. if you type _find somefile.txt /, then !* would give you _find somefile.txt)
 
 > !*:p – print out what !* would substitute
+
+demo
