@@ -81,4 +81,3 @@
 
 > !*:p – print out what !* would substitute
 
-demo
