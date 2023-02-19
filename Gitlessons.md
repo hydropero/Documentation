@@ -12,6 +12,7 @@ Note: The following instructions are applicable when you choose HTTP option for 
 7. ls (you can see that what is inside the repository for example lets say ls command shows you a directory named Linux and now you want to go inside Linux)
 8. cd Linux
 9. ls (To see what is all there inside Linux)
+
 Note: To make your file inside this directory you can use anything touch, nano or vi command; I used vi
 10. vi filename (it will create a new file)
 11. press i (to edit your file)
