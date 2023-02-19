@@ -13,7 +13,7 @@ Note: The following instructions are applicable when you choose HTTP option for 
 8. cd Linux
 9. ls (To see what is all there inside Linux)
 
-Note: To make your file inside this directory you can use anything touch, nano or vi command; I used vi
+#### Note: To make your file inside this directory you can use anything touch, nano or vi command; I used vi
                     
 10. vi filename (it will create a new file)
 11. press i (to edit your file)
