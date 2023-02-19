@@ -3,3 +3,4 @@
 - # Documentation & Tutorials
 
 - ### [How to SSH into your EC2 Instance via (Canvas AWS Lab)](https://github.com/hydropero/Documentation/blob/main/SSH_AWS_Connect.md)
+- ### [Git Basics (Cloning, Pulling, Adding, Commiting, Pushing)](https://github.com/hydropero/Documentation/blob/main/Gitlessons)
