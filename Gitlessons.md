@@ -1,6 +1,6 @@
 Lesson 1: 
 
-How to Clone a Repository (Cloning a repository means when you copy a repository from Github.com to your local machine)
+# How to Clone a Repository (Cloning a repository means when you copy a repository from Github.com to your local machine)
 
 1. First Go to Github and select the Green <Code> tab
 
@@ -16,10 +16,10 @@ Note: The following instructions are applicable when you choose HTTP option for 
 8. cd Linux
 9. ls (To see what is all there inside Linux)
 
-# Now to make your file inside this directory you can use anything touch, nano or vi command; I used
+Note: To make your file inside this directory you can use anything touch, nano or vi command; I used vi
 10. vi filename (it will create a new file)
 11. press i (to edit your file)
 12. ls (to check the file you just created is in there)
-13. git add. (To promote pending changes in the working directory)
-14. git commit -m "Added Terms" (to create a snapshot of the staged changes along a timeline of gitprojects history)
+13. git add . (To promote pending changes in the working directory)
+14. git commit -m "Message" (to create a snapshot of the staged changes along a timeline of gitprojects history)
 15. git push (To upload local repository content to a remote repository)
