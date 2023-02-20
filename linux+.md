@@ -33,4 +33,9 @@ Here are a few examples of how you can use parameter expansion in bash:
 > **\${variable%%pattern}:** This syntax removes the longest match of pattern from the end of variable. For example, if variable="file.txt.gz", 
 \${variable%%.gz} would expand to file.txt.
 
-These are just a few examples of the many ways you can use parameter expansion in bash. It's a very powerful feature that can help you manipulate strings and variables in all sorts of ways! 
+> filename="/path/to/my/file.txt"
+basename=\${filename##*/}    # Remove everything before the last "/"
+basename=\${basename%%.*}   # Remove everything after the first "."
+echo $basename              # Output: file
+
+These are just a few examples of the many ways you can use parameter expansion in bash.
