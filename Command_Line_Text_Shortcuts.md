@@ -81,3 +81,4 @@
 
 > !*:p – print out what !* would substitute
 
+> sudo !! - adds sudo yo last commmand
