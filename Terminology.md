@@ -53,3 +53,7 @@ Shebang - #!
 - WWW : Worldwide web
 - IP: Internet protocol
 - NIC: Network interface card (connects a computer to a network cable)
+- OSI: Open system interconnection
+- MAC- Media access control (in OSI model, data layer 2 (data link layer), data/msg is called frame and is assoicated with a MAC address which is called physical address)
+- ISP: Internet Service Provider
+- STP/UTP: Shielded Twisted Pair/ Unshielded Twisted Pair
