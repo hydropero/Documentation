@@ -45,3 +45,8 @@
   - PaaS (Platform as a service)
   - SaaS (Software as a service)
 Shebang - #!
+
+-### Networking
+
+- HTML : Hypertext markup language
+- URL: Uniform resource locator
