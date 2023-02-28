@@ -50,3 +50,6 @@ Shebang - #!
 
 - HTML : Hypertext markup language
 - URL: Uniform resource locator
+- WWW : Worldwide web
+- IP: Internet protocol
+- NIC: Network interface card
