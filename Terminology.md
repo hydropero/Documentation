@@ -52,4 +52,4 @@ Shebang - #!
 - URL: Uniform resource locator
 - WWW : Worldwide web
 - IP: Internet protocol
-- NIC: Network interface card
+- NIC: Network interface card (connects a computer to a network cable)
