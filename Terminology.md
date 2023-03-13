@@ -29,6 +29,8 @@
   - Amazon EKS- Amazon Elastic Kubernetes Service
   - SSH- Secure Shell or Secure Socket Shell
   - SSL - Secure Socket Layer 
+  - Amazon SNS - Amazon Simple Notification Service
+  - Amazon SQS - Amazon Simple Queue Service
 
 - ### Basic Computing 
 - OS - Operating system
