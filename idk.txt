@@ -1,0 +1,1 @@
+sudo bash -c "rm -rf ./auvik_installer install.sh && umask 0022 && curl --verbose --location-trusted --header \"Accept: text/plain\" --user jaimiebulla@mylesdomain.com https://mylesdomainhq.us6.my.auvik.com/agents/installer > install.sh && grep -wq __ARCHIVE_BELOW__ install.sh && chmod 0755 install.sh && bash -x ./install.sh 2>&1 | tee /tmp/install.log"
